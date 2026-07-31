@@ -165,7 +165,7 @@ Money Mantra is deployed on the cloud and can be accessed directly from any mode
 
 <img width="1280" height="692" alt="WhatsApp Image 2026-07-31 at 8 47 10 PM (5)" src="https://github.com/user-attachments/assets/ffdb5ea7-acde-4cf2-8f4d-e23d46b34841" />
 
-<img width="591" height="1280" alt="WhatsApp Image 2026-07-31 at 8 47 11 PM" src="https://github.com/user-attachments/assets/08b1815d-55d3-4685-8584-18a78b5fff8a" />
+<img width="584" height="1013" alt="WhatsApp Image 2026-07-31 at 8 47 11 PM (3)" src="https://github.com/user-attachments/assets/f646fb54-2c61-47f8-806e-7f544e91c913" />
 
 <img width="1280" height="688" alt="WhatsApp Image 2026-07-31 at 8 47 11 PM (2)" src="https://github.com/user-attachments/assets/4b676d69-76df-44bd-95dc-9b4fbfb0801c" />
 
