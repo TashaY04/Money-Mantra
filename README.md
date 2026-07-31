@@ -64,24 +64,24 @@ Money Mantra simplifies financial planning by offering:
 
 
 ```text
-User
-   │
-   ▼
-Responsive Web Interface
-   │
-Authentication
-   │
-Expense & Budget Modules
-   │
-Business Logic
-   │
-Flask Backend
-   │
-SQLAlchemy ORM
-   │
-PostgreSQL Database
-   │
-Reports & Analytics
+                User
+                  │
+                  ▼
+     Responsive Web Interface
+                  │
+         Authentication
+                  │
+     Expense & Budget Modules
+                  │
+          Business Logic
+                  │
+          Flask Backend
+                  │
+          SQLAlchemy ORM
+                  │
+        PostgreSQL Database
+                  │
+        Reports & Analytics
 ```
 
 ---
@@ -89,25 +89,25 @@ Reports & Analytics
 # 🔄 Application Workflow
 
 ```text
-User Login
-      │
-      ▼
-Dashboard
-      │
-      ▼
-Expense Entry
-      │
-      ▼
-Budget Monitoring
-      │
-      ▼
-Database Storage
-      │
-      ▼
-Financial Analytics
-      │
-      ▼
-Reports & Insights
+               User Login
+                     │
+                     ▼
+               Dashboard
+                     │
+                     ▼
+               Expense Entry
+                     │
+                     ▼
+               Budget Monitoring
+                     │
+                     ▼
+               Database Storage
+                     │
+                     ▼
+               Financial Analytics
+                     │
+                     ▼
+               Reports & Insights
 ```
 
 ---
