@@ -1,7 +1,7 @@
-<p align = "center">
-# 💰 Money Mantra
-### Intelligent Personal Finance & Budget Management Platform
-</p>
+
+<h1 align="center">💰 Money Mantra</h1>
+<h3 align="center">Intelligent Personal Finance & Budget Management Platform</h3>
+
 > A full-stack personal finance platform that enables users to securely track expenses, manage budgets, visualize spending patterns, and gain actionable financial insights through an intuitive web application.
 
 <p align = "center">
